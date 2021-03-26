@@ -15,13 +15,17 @@ To check the project, I worked on click on these links:
 
 GitHub: https://github.com/NBP77/readme-generator
 
-Video: 
+Video: <iframe src="https://drive.google.com/file/d/1M3VohKEFunwj7pY5JSUuFVvNRdh9gdFs/preview" width="640" height="480"></iframe> 
+
+Link: https://drive.google.com/file/d/1M3VohKEFunwj7pY5JSUuFVvNRdh9gdFs/view
 
 ## Usage
 
 Examples:
 
--Installed Node Inquirer 
+-Installed Node Inquirer
+
+-Added a gitignore to ignore some Node files 
 
 -Preformed a git init 
 
