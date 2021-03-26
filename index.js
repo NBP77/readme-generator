@@ -1,6 +1,24 @@
 // // node imports
-// const inquirer = require('inquirer');
-// const fs = require('fs');
+const inquirer = require('inquirer');
+const generatorMarkdown = require('./generateMarkdown')
+const fs = require('fs');
+
+
+function writeTheFile(nameOfFile, data) {
+  fs.writeFile("./Demo/"+nameOfFile, data, function(err) {
+    if (err) {
+      return console.log(err);
+    }
+    console.log("Successfully wrote: " + nameOfFile);
+  })
+}
+
+function init() {
+  inquirer.prompt(questions)
+  .then(function(data) {
+    writeTheFile("DemoREADME.md", generatorMarkdown(data));
+  })
+}
 
 // Questions for the user
 const questions = [
@@ -62,9 +80,7 @@ const questions = [
     
     ]
 
-inquirer.prompt()
-
-
+    init();
 
 
 
