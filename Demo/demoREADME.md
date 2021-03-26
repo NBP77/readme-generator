@@ -1,10 +1,12 @@
-# Gulag Tracker
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/undefined/Gulag Tracker)
+
+# My Project
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/undefined/My Project)
 
 # Description
 
-Tracks stats 
+Makes a cool app
 
 # Table of Contents 
 
@@ -22,11 +24,11 @@ Tracks stats
 
 # Installation
 
-The following necessary dependencies must be installed to run the application properly: node 
+The following necessary dependencies must be installed to run the application properly: Open it a press start 
 
 # Usage
 
-​This application is used for stuff
+​This application is used for To make people happy
 
 # License
 
@@ -34,7 +36,7 @@ This project is license under the MIT license.
 
 # Contributing
 
-​Contributors: me
+​Contributors: Nope just me 
 
 # Tests
 
@@ -42,5 +44,5 @@ To run tests, you need to run the following command: undefined
 
 # Questions
 
-If you have any questions about the repo, open an issue or contact undefined directly dfg.
+If you have any questions about the repo, open an issue or contact undefined directly nbp77@outlook.com.
 
